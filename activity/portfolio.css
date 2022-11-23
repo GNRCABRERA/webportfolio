@@ -1,0 +1,62 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Patrick Hand", sans-serif;
+	background: #fff;
+}
+
+#navbar-main{
+		background: #cb997e;
+}
+#navbar-main a {
+	color: #fff;
+}
+
+#logo {
+	font-family: "Marhey", sans-serif;
+	font-size: 50px;
+}
+
+.f-20 {
+	font-size: 1.7rem;
+}
+
+#photo {
+	width: 250px;
+	height: 250px;
+}
+
+#contactme-button {
+	border: 3px solid darkred;
+	border-radius: 50% !important;
+	border-color: #fff;
+}
+
+.min-vh-50 {
+  min-height: 50vh !important;
+}
+
+.backgroundmain {
+	background: #cb997e;
+}
+
+.textme {
+	color: #cb997e;
+}
+
+.min-vh-75 {
+  min-height: 75vh !important;
+}
+
+#landing-img {
+	background-image: url(https://d3ojsfl21hfxhc.cloudfront.net/assets/zuitt/programdetails2_w.jpg);
+	background-size: 100%;
+	background-position: center;
+	background-color: gray;
+	background-blend-mode: multiply;
+	background-repeat: no-repeat;
+	z-index: 1;
