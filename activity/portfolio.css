@@ -55,7 +55,7 @@ body {
 #landing-img {
 	background-image: url(https://d3ojsfl21hfxhc.cloudfront.net/assets/zuitt/programdetails2_w.jpg);
 	background-size: 100%;
-	background-position: center;
+	background-position: bottom;
 	background-color: gray;
 	background-blend-mode: multiply;
 	background-repeat: no-repeat;
