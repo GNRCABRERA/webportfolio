@@ -10,7 +10,7 @@ body {
 }
 
 #navbar-main{
-		background: #cb997e;
+		background: #6c584c;
 }
 #navbar-main a {
 	color: #fff;
@@ -41,11 +41,15 @@ body {
 }
 
 .backgroundmain {
-	background: #cb997e;
+	background: #6c584c;
 }
 
 .textme {
-	color: #cb997e;
+	color: #9c6644;
+}
+
+.textme2 {
+	color: #ffe8d6;
 }
 
 .min-vh-75 {
@@ -60,3 +64,12 @@ body {
 	background-blend-mode: multiply;
 	background-repeat: no-repeat;
 	z-index: 1;
+}
+
+.vertical1 {
+	margin-top: 5rem;
+}
+
+.pt-6 {
+	padding-top: 10rem !important;
+}
